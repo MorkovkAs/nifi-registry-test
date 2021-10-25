@@ -1,0 +1,5 @@
+flows:
+  a7cddd15-6715-4c58-9627-2dfaee12ce61: {ver: 1, file: Mongo_To_PG.snapshot, comments: Initial,
+    author: anonymous, created: 1635192186249, flowName: Mongo To PG, flowDesc: ''}
+layoutVer: 1
+bucketId: 44b391c8-e51e-46d7-aeac-9077c539e8c9
